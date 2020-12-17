@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="HomeScene" extends="Scene">
+  <interface>
+    <field id="contentId" type="string"/>
+    <field id="mediaType" type="string"/>
+  </interface>
+    <script type = "text/brightscript" uri = "pkg:/components/HomeScene.brs" />
+<children>
+  <Rectangle
+    id = "Overhang"
+    height = "4000"
+    width = "1920"
+    color = "0x000000FF"
+    opacity = "0.5"
+  />
+
+  <Group
+    translation = "[150,75]">
+    <Label
+      id = "Title"
+      height = "30"
+      width = "650"
+      font = "font:LargeBoldSystemFont">
+      <Font role="font" uri="pkg:/fonts/AvenirNextBold/AvenirNext-DemiBold.ttf" size="72" />
+      </Label>
+    <Label
+      id = "Description"
+      height = "250"
+      width = "800"
+      color = "0xA3A3C2FF"
+      translation = "[0,75]"
+      wrap = "true">
+        <Font role="font" uri="pkg:/fonts/Avenir/Avenir-MediumOblique.ttf" size="40" />
+      </Label>
+      
+    <Poster
+      id = "Poster"
+      height = "281"
+      width = "500"
+      loadWidth = "500"
+      loadHeight = "281"
+      loadDisplayMode = "scaleToFit"
+      translation = "[850,10]"/>
+  </Group>
+  
+    <RowList
+        id= "RowList"
+        translation= "[0,500]"
+        itemComponentName= "PosterItem"
+        numRows= "4"
+        rowitemSize="[[351,197]]"
+        rowItemSpacing= "[[20,0]]"
+        itemSize= "[1920,270]"
+        rowLabelOffset= "[[50,10]]"
+        focusXOffset = "[50]"
+        showRowLabel= "[true]"
+        rowFocusAnimationStyle= "floatingfocus"
+    />
+    
+     <!-- Details screen with Play button -->
+        <DetailsScreen
+            id="DetailsScreen"
+            visible="false"/>
+</children>
+
+</component>

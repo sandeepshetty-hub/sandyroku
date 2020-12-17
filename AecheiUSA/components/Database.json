@@ -1,0 +1,80 @@
+{
+
+        "Channel": "Richard Roberts",
+        "Videos": [
+          {
+          	"ContentId": "b001",
+          	"MediaType": "Movie",
+            "Title": "The Presence of God in Your Life",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/the-presence.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+          	"ContentId": "b002",
+          	"MediaType": "Movie",
+            "Title": "Tormented by Fear?",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/fear.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          },
+          {
+          	"ContentId": "b003",
+          	"MediaType": "Movie",
+            "Title": "What to do in Difficult Times",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/what-to-do.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+          },
+            {
+            "ContentId": "b004",
+          	"MediaType": "Movie",
+            "Title": "The Presence of God in Your Life",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/the-presence.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+          	"ContentId": "b005",
+          	"MediaType": "Movie",
+            "Title": "Tormented by Fear?",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/fear.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          },
+          {
+          	"ContentId": "b006",
+          	"MediaType": "Movie",
+            "Title": "What to do in Difficult Times",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/what-to-do.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+          },
+           {
+           	"ContentId": "b007",
+          	"MediaType": "Movie",
+            "Title": "The Presence of God in Your Life",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/the-presence.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+          	"ContentId": "b008",
+          	"MediaType": "Movie",
+            "Title": "Tormented by Fear?",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/fear.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          },
+          {
+          	"ContentId": "b009",
+          	"MediaType": "Movie",
+            "Title": "What to do in Difficult Times",
+            "Thumbnail": "https://d145s2saj2ao4v.cloudfront.net/thumbnail/what-to-do.png",
+            "bgImage": "https://media.istockphoto.com/photos/studio-news-set-3d-rendering-picture-id1205529057?k=6&m=1205529057&s=612x612&w=0&h=8BQa8H0m4Tv6b8rdVCwGjNNzk1gLLCH1SB0wTJhVvF8=",
+            "Link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+          }
+        ]
+
+}
+
